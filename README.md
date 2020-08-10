@@ -19,17 +19,17 @@ Tables presenting each of the following metrics:
 
 -	The district summary shows no significant changes
 
-![District Summary](/District_summary.png)
+![District Summary](/District_summary.PNG)
 -	The school summary shows significant changes in the reading, math and overall passing percentages
 
-![School Summary](/School_summary.png)
+![School Summary](/School_summary.PNG)
 -	Replacing the ninth graders scores shows that Thomas High School did not have a passing percentage for reading, math, and overall compared to other schools in the district
 -	With scores by grade, the 9th grade column shows “NaN”, scores compared to spending, size and type all showed drops in passing percentage
 
-![Scores By Grade](/Scores_by_grade.png)
-![Spending Summary](/Spending_summary.png)
-![Size Summary](/Size_summary.png)
-![Type Summary](/Type_summary.png)
+![Scores By Grade](/Scores_by_grade.PNG)
+![Spending Summary](/Spending_summary.PNG)
+![Size Summary](/Size_summary.PNG)
+![Type Summary](/Type_summary.PNG)
 
 ## Challenge Summary
 
