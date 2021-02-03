@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis was to provide the school board with:
 -	A high-level snapshot of the district's key metrics, presented in a table format
@@ -15,7 +15,7 @@ Tables presenting each of the following metrics:
 -	School performance based on the type of school
 
 
-## Challenge Results
+## Results
 
 -	The district summary shows no significant changes
 
@@ -31,7 +31,7 @@ Tables presenting each of the following metrics:
 ![Size Summary](/Size_summary.PNG)
 ![Type Summary](/Type_summary.PNG)
 
-## Challenge Summary
+## Summary
 
 After updating the school district analysis and Thomas High School’s 9th graders with “NaN” scores, there were noticeable drops for reading, math and overall passing percentages.  Looking at the school, spending, size, and type summaries prior to the update, there are drops in the scores.  School comparisons showed the most significant drop while the spending, size, and type summaries showed minimal drops.
 
